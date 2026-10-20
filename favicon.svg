@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-<rect width="64" height="64" rx="14" fill="#2b8296"/>
-<text x="32" y="42" font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="23" font-weight="700" letter-spacing="-1" fill="#fff" text-anchor="middle">통영</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#2b8296"/><path d="M26.5 50 L29 22 h6 L37.5 50 Z" fill="#fff"/><path d="M27.8 33 h8.4 M27.2 42 h9.6" stroke="#2b8296" stroke-width="3"/><rect x="27" y="15" width="10" height="7" rx="2" fill="#fff"/><path d="M26 15 L32 9.5 L38 15 Z" fill="#fff"/><g stroke="#fff" stroke-width="2.4" stroke-linecap="round" opacity=".8"><path d="M41 16 L53 12"/><path d="M41 20 L53 23"/></g><path d="M9 55 q5.75 -4 11.5 0 t11.5 0 t11.5 0 t11.5 0" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round" opacity="0.75"/></svg>
